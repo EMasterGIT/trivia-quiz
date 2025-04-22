@@ -19,13 +19,14 @@ App [Open Trivia DB API](https://opentdb.com/) küsimuste toomiseks. Kasutajad s
 ## Käivitusjuhised
 
 ### 1. Klooni repo:
-    ```bash
-    git clone 
+    
+    git clone https://github.com/EMasterGIT/trivia-quiz.git
+    cd trivia-quiz
 ### 2. Installi paketid:
-    ```bash
+    
     npm install
 ### 3. Käivita server:
-    ```bash
+    
     npm instal
 
 
