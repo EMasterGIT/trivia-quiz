@@ -27,6 +27,6 @@ App [Open Trivia DB API](https://opentdb.com/) küsimuste toomiseks. Kasutajad s
     npm install
 ### 3. Käivita server:
     
-    npm instal
+    npm start
 
 
